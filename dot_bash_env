@@ -1,0 +1,2 @@
+export PATH="$PATH:/home/schaermu/.local/bin"
+export EDITOR="codium --wait"
